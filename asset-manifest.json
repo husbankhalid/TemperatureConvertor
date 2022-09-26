@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TemperatureConvertor/static/css/main.90da1b06.css",
+    "main.css": "/TemperatureConvertor/static/css/main.de4ea718.css",
     "main.js": "/TemperatureConvertor/static/js/main.961e2c80.js",
     "index.html": "/TemperatureConvertor/index.html",
-    "main.90da1b06.css.map": "/TemperatureConvertor/static/css/main.90da1b06.css.map",
+    "main.de4ea718.css.map": "/TemperatureConvertor/static/css/main.de4ea718.css.map",
     "main.961e2c80.js.map": "/TemperatureConvertor/static/js/main.961e2c80.js.map"
   },
   "entrypoints": [
-    "static/css/main.90da1b06.css",
+    "static/css/main.de4ea718.css",
     "static/js/main.961e2c80.js"
   ]
 }
