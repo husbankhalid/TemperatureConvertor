@@ -1,4 +1,4 @@
-# TemperatureConvertor
+# Temperature Convertor
 #### URL: https://husbankhalid.github.io/TemperatureConvertor
 
 ## About
